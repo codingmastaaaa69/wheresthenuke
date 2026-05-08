@@ -1,0 +1,36 @@
+{
+  "games": [
+    {
+      "id": "2048",
+      "title": "2048",
+      "description": "Join the numbers and get to the 2048 tile!",
+      "iframeUrl": "https://play2048.co/",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/1/18/2048_logo.svg",
+      "category": "Puzzle"
+    },
+    {
+      "id": "tetris",
+      "title": "Tetris",
+      "description": "The classic block-stacking puzzle game.",
+      "iframeUrl": "https://tetris.com/play-tetris",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tetris_logo.svg",
+      "category": "Classic"
+    },
+    {
+      "id": "flappy-bird",
+      "title": "Flappy Bird (Clone)",
+      "description": "Flap your wings and fly through the pipes.",
+      "iframeUrl": "https://flappybird.io/",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/0a/Flappy_Bird_icon.png",
+      "category": "Arcade"
+    },
+    {
+      "id": "snake",
+      "title": "Snake",
+      "description": "Eat the food and grow longer without hitting the walls.",
+      "iframeUrl": "https://www.google.com/logos/2010/pacman10-i.html",
+      "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/43/Snake_icon.svg",
+      "category": "Classic"
+    }
+  ]
+}
